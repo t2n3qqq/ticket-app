@@ -1,0 +1,5 @@
+redis:
+  nodeSelector:
+    eks.amazonaws.com/nodegroup: pool-app
+
+password: super-secured-password
